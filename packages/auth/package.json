@@ -5,8 +5,9 @@
   "main": "src/index.ts",
   "types": "src/index.ts",
   "dependencies": {
-    "@saas/prettier": "workspace:*",
+    "@casl/ability": "^6.7.3",
     "@saas/eslint-config": "workspace:*",
+    "@saas/prettier": "workspace:*",
     "@saas/tsconfig-config": "workspace:*"
   },
   "eslintConfig": {
