@@ -1,0 +1,4 @@
+{
+  "extends": "@saas/tsconfig-config/node.json",
+  "include": ["src/**/*"]
+}
